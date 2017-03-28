@@ -15,6 +15,7 @@ namespace MultilevelGridtest
     //updated here
     public class MyDataContext
     {
+        //added for conflict test
         ObservableCollection<WarehouseItem> warehouseData;
         public ObservableCollection<WarehouseItem> WarehouseData
         {
