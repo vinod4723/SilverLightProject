@@ -15,6 +15,9 @@ using System.Windows.Shapes;
 
 namespace MultilevelGridtest
 {
+    /// <summary>
+    /// added comments
+    /// </summary>
     public class MyItems: INotifyPropertyChanged
     {
         private bool isExpanded;
