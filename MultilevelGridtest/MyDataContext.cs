@@ -15,6 +15,9 @@ namespace MultilevelGridtest
     //updated here
     public class MyDataContext
     {
+        /// <summary>
+        /// this is test changes
+        /// </summary>
         ObservableCollection<WarehouseItem> warehouseData;
         public ObservableCollection<WarehouseItem> WarehouseData
         {
